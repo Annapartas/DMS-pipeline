@@ -3,8 +3,8 @@
 #SBATCH --mem=8GB
 #SBATCH --time=1-00:00:00
 #SBATCH --output=log/main_%j
-##SBATCH --mail-user=user@example.com
-##SBATCH --mail-type=BEGIN,END 
+#SBATCH --mail-user=apartas@imm.uzh.ch
+#SBATCH --mail-type=BEGIN,END 
 
 module load mamba
 eval "$(conda shell.bash hook)"
