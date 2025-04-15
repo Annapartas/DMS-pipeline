@@ -1,6 +1,6 @@
 {
-    "reads": "data/*_R{1,2}_001.fastq.gz",
-    "wt_sequence": "data/LmrCD_WT.fa",
+    "reads": "/home/aparta/seeger/DMS_LmrCD/NGS01_Inputs/*_R{1,2}_001.fastq.gz",
+    "wt_sequence": "/home/aparta/seeger/DMS_LmrCD/NGS01_Inputs/LmrCD_WT.fa",
     "outdir": "results",
     "adapter_R1": "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA",
     "adapter_R2": "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT",
