@@ -1,0 +1,15 @@
+{
+    "reads": "/home/aparta/seeger/DMS_EfrAB/*_R{1,2}_001.fastq.gz",
+    "wt_sequence": "/home/aparta/seeger/DMS_EfrAB/EfrAB_WT",
+    "outdir": "results",
+    "adapter_R1": "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA",
+    "adapter_R2": "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT",
+    "positions": "72 84 207 216 360 372 384 396 405 519 528 540 552 696 705 717 729 741 750 762 825 828 837 840 849 858 861 870 879 882 891 1017 1113 1239 1413 1500 1575 1817 1829 1970 1979 2123 2138 2144 2147 2159 2168 2258 2282 2435 2459 2468 2480 2492 2504 2513 2525 2537 2591 2600 2603 2612 2621 2624 2633 2642 2645 2654 2783 2873 2999 3173 3242 3260 3335",
+    "nnk_positions": "381 672 684 1482 2291 2303 2315 2447",
+    "wt_ref_position": "798",
+    "wt_codon": "CTT",
+    "wt_count": "10000",
+    "readingframes": true,
+    "frameshift_position": "1728",
+    "frameshift_offset": "-4"
+}
